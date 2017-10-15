@@ -7,5 +7,7 @@ ChallengePhunWithStrings was a short C# assignment where I switched the orders o
 
 ChallengePostalCalculator was a C# Visual Studio program where the cost of a package was based on volume of the package in square inches.
 
+ChallengeSimpleDarts was a two-player dart game (sorry, no graphics) where the first person over 301 points won. C# - Visual Studio program.
+
 
 
