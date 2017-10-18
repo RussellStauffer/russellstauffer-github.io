@@ -13,7 +13,14 @@ Epic Spies Asset Tracker is a C# ViewState demonstration program where you track
 
 MegaChallenge War is a C# / ASP>NET  version of the classic card game war. It proceeds for up to 50 rounds, and ends when one player has no cards, or the 50 rounds ends, when the person with the most cards is declared the winner.
 
-MegaChallenge Casino is a slot machine program designed to use random images in each slot wheel to determine wins and losses. Unlike 
+MegaChallenge Casino is a slot machine program in C# designed to use random images in each slot wheel to determine wins and losses. Unlike 
 the original version by Bob Tabor, this version will not let you play "in the red".
+
+The File Transfer programs are Python programs designed to progressively do more work for the user by slowly automating
+the desired processes.
+
+Papa Bob's Pizza is a large program for ordering pizza. It uses Javascript, JQuery and Bootstrap. You will have to branch and extract this file.
+
+Any other folders or files on this page are supporting templates or applications, which belong to their respective creators, are used with the owner's permission by me, and are not transferable. Sorry!
 
 
